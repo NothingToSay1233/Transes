@@ -6,11 +6,11 @@
   "translations": {
 
   
-  "fallback_languages": {
+
     "en_US": {
       "name": "English (US)",
       "file": "en_US.json"
-  }
+  
 }
   }
  }
