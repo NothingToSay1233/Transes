@@ -16,8 +16,10 @@
     "AUTO_TP_TO_WP": "Auto-Teleport To Waypoint",
     "BACK": "Back",
     "BAD_SPORT": "Bad Sport",
-    "BAIL_KICK": "Bail Kick",
+
+    "BAIL_KICK": "Network Bail Kick",
     "BAIL_KICK_DESC": "Blocked by most menus",
+
     "BLAMED_FOR_EXPLOSION": "{} blamed {} for explosion",
     "BLIPS": "Blips:",
     "BLOCK": "Block",
@@ -32,10 +34,12 @@
     "BOUNTY_ANON": "Anonymous Bounty",
     "BOUNTY_ANON_DESC": "Don't show your name when setting a bounty on someone",
     "BOUNTY_DESC": "Sets a 10k bounty on the player",
+
     "BREAKUP_KICK": "Breakup Kick",
-    "BREAKUP_KICK_DESC": "Nearly unblockable but could be detected by others",
+    "BREAKUP_KICK_DESC": "Almost unblockable kick",
     "BREAKUP_KICK_SHOW_CHEATING": "Show Cheating Message",
     "BREAKUP_KICK_SHOW_CHEATING_DESC": "Shows a \"was detected cheating and has been removed from the session\" instead of the usual leave message when the player gets kicked",
+    
     "BRING": "Bring",
     "BRING_ALL": "Bring All",
     "BRING_ALL_DESC": "Teleports everyone to you, even if they are on foot",
@@ -169,8 +173,10 @@
     "EMERGENCY_STOP": "Emergency Stop",
     "ENABLED": "Enabled",
     "ENABLE_SPECIAL_AMMO": "Enable Special Ammo",
+
     "END_KICK": "End Session Kick",
     "END_KICK_DESC": "This may take around 10 seconds to kick the player",
+
     "ENTER_INTERIOR": "Enter Interior",
     "ENTER_INTERIOR_DESC": "Enters the player's interior",
     "ERROR_FAILED_TO_TAKE_CONTROL": "Failed to take control of player vehicle.",
@@ -384,7 +390,7 @@
     "IPL_POSITION": "Position X: {} | Y: {} | Z: {}",
     "IP_ADDRESS": "IP Address",
     "IP_ADDRESS_COLON": "IP Address:",
-    "IS_MODDER": "Is Modder",
+    "IS_MODDER": "Mark Modder",
     "IS_TEAM": "Is Team",
     "JOIN": "Join",
     "JOIN_BY_RID": "Join by RID",
@@ -417,8 +423,10 @@
     "LAW_ABIDING": "Law-Abiding",
     "LEFT": "Left",
     "LEFT_SIDED": "Left Sided",
+
     "LESSEN_BREAKUP_KICK": "Lessen Breakup Kicks As Host",
     "LESSEN_BREAKUP_KICK_DESCRIPTION": "Attacker must join after you have become host for this to work. There are anti-cheat concerns with this feature",
+
     "LOAD": "Load",
     "LOAD_IPL": "Load IPL",
     "LOAD_MP_MAP": "Load MP Map",
@@ -509,9 +517,11 @@
     "ONE_ON_ON_DM": "One-On-One Deathmatch",
     "ONLINE_PLAYER": "ONLINE PLAYER",
     "ONLY_AS_HOST": "Only works as host",
+
     "OOM_KICK": "{} tried to OOM kick you!",
     "OOM_KICK_CMD": "OOM Kick",
-    "OOM_KICK_CMD_DESC": "Causes the player to be kicked with an alert. This kick has a high chance of backfiring in its current state",
+    "OOM_KICK_CMD_DESC": "Causes the player to be kicked with an alert. It has chance to backfire you tho",
+
     "OPEN": "Open",
     "OPEN_ALL_DOORS": "Open All",
     "ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER": "Automatically lock onto player",
@@ -698,7 +708,7 @@
     "SEND": "Send",
     "SEND_MSG": "Send Message",
     "SEND_SEXT": "Send Sext",
-    "SEND_SEXT_DESC": "Sends a random sext (with an image attachment) to the player",
+    "SEND_SEXT_DESC": "Sends a random text (with an image attachment) to the player",
     "SEND_SMS": "Send SMS",
     "SEND_TO_CUTSCENE": "Send to Cutscene",
     "SEND_TO_LOCATION": "Send to Location",
