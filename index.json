@@ -4,11 +4,9 @@
   "selected_language": "en_US",
   "version": 23,
   "fallback_languages": {
-  "translations": {
     "en_US": {
       "name": "English (US)",
       "file": "en_US.json"
-    }
   }
 }
  }
