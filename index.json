@@ -1,7 +1,15 @@
 {
   "default_lang": "en_US",
+  "selected_language": "en_US",
+  "fallback_default_language": "en_US",
   "version": 22,
   "translations": {
+    "en_US": {
+      "name": "English (US)",
+      "file": "en_US.json"
+    }
+  },
+  "fallback_languages": {
     "en_US": {
       "name": "English (US)",
       "file": "en_US.json"
