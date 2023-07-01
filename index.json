@@ -3,14 +3,10 @@
   "fallback_default_language": "en_US",
   "selected_language": "en_US",
   "version": 22,
-  "translations": {
-
-  
-
+  "fallback_languages": {
     "en_US": {
       "name": "English (US)",
       "file": "en_US.json"
-  
 }
   }
  }
