@@ -1076,6 +1076,7 @@
     "RECOVERY_LEVEL": "Level",
     "SET_120_LVL": "After you set your level, find a new session (your level will be corrected)",
     "SETUP_CASINO": "Casino Heist will be setuped with Target: Gold, Approach: Big Con",
+    "SETUP_CASINO_SNEAKY": "Casino Heist will be setuped with Target: Gold, Approach: Silent And Sneaky",
     "WRITE": "Write",
     "YES": "Yes"
 }
