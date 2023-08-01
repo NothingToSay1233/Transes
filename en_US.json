@@ -1073,6 +1073,9 @@
     "WHEEL_TYPE": "Wheel Type",
     "WINDOW_TINT": "Window Tint",
     "WIZARD": "SPACE_MONKEY",
+    "RECOVERY_LEVEL": "Level",
+    "SET_120_LVL": "After you set your level, find a new session (your level will be corrected)",
+    "SETUP_CASINO": "Casino Heist will be setuped with Target: Gold, Approach: Big Con",
     "WRITE": "Write",
     "YES": "Yes"
 }
