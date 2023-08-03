@@ -1081,6 +1081,8 @@
     "RECOVERY_MONEY": "Money",
     "NIGHT_C_LOOP": "Nightclub Loop",
     "RECOVERY_UNLOCKS": "Unlocks",
+    "MAFIAV2_KICK": "Mafia Kick V2",
+    "MAFIAV2_KICK_DESC": "Mafia Kick V2 is the most powerful kicking method. But has small chance of backfire",
     "WRITE": "Write",
     "YES": "Yes"
 }
