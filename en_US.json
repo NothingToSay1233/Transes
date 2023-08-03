@@ -1083,6 +1083,7 @@
     "RECOVERY_UNLOCKS": "Unlocks",
     "MAFIAV2_KICK": "Mafia Kick V2",
     "MAFIAV2_KICK_DESC": "Mafia Kick V2 is the most powerful kicking method. But has small chance of backfire",
+    "KICK_PROTECT": "Block Kicks",
     "WRITE": "Write",
     "YES": "Yes"
 }
