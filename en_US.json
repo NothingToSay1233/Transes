@@ -1085,8 +1085,8 @@
       "MAFIAV2_KICK_DESC": "Mafia Kick V2 is the most powerful kicking method. But has small chance of backfire",
       "KICK_PROTECT": "Block Kicks",
       "VK_F4": "F4",
-      "CRASH_KICK": "Crash",
-      "CRASH_KICK_DESC": "Beta crash. Try not to be close to the player while doing this. It may cause you to crash."
+      "PEDCRASH_KICK": "Crash",
+      "PEDCRASH_KICK_DESC": "Beta crash. Try not to be close to the player while doing this. It may cause you to crash."
       "WRITE": "Write",
       "YES": "Yes"
 }
