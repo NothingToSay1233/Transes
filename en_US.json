@@ -690,6 +690,7 @@
       "POS_X_Y": "Position (X, Y)",
       "POTENTIAL_ADMIN_FOUND": "Potential Admin Found!",
       "PREVIEW": "Preview",
+      "PREVIEW_DESC": "Shows a render of what you have highlighted in front of you.",
       "PRIMARY": "Primary",
       "PROOFS": "Proofs",
       "PROTECTIONS": "Protections",
