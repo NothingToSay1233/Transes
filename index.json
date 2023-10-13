@@ -8,5 +8,6 @@
         }
     },
     "selected_language": "en_US",
-    "version": 56
+    "version": 56,
+    "default_lang": "en_US"
 }
