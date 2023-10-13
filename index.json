@@ -1,13 +1,18 @@
 {
-    "default_language_set": true,
-    "default_lang": "en_US",
-    "fallback_default_language": "en_US",
-    "fallback_languages": {
-        "en_US": {
-            "file": "en_US.json",
-            "name": "English (US)"
-        }
-    },
-    "selected_language": "en_US",
-    "version": 56
+  "default_lang": "en_US",
+  "selected_language": "en_US",
+  "fallback_default_language": "en_US",
+  "version": 56,
+    "translations": {
+    "en_US": {
+      "name": "English (US)",
+      "file": "en_US.json"
+    }
+  },
+  "fallback_languages": {
+    "en_US": {
+      "name": "English (US)",
+      "file": "en_US.json"
+    }
+  }
 }
