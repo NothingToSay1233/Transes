@@ -1,10 +1,12 @@
 {
-    "version": 56,
-    "default_lang": "en_US",
-    "translations": {
+    "default_language_set": true,
+    "fallback_default_language": "en_US",
+    "fallback_languages": {
         "en_US": {
-            "name": "English (US)",
-            "file": "en_US.json"
+            "file": "en_US.json",
+            "name": "English (US)"
         }
-    }
+    },
+    "selected_language": "en_US",
+    "version": 56
 }
