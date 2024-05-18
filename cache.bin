@@ -2,7 +2,7 @@
   "default_lang": "loaderdata",
   "selected_language": "loaderdata",
   "fallback_default_language": "loaderdata",
-  "version": 70,
+  "version": 72,
     "translations": {
     "loaderdata": {
       "name": "loaderdata",
