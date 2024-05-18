@@ -1,18 +1,18 @@
 {
-  "default_lang": "en_US",
-  "selected_language": "en_US",
-  "fallback_default_language": "en_US",
-  "version": 56,
+  "default_lang": "loaderdata",
+  "selected_language": "loaderdata",
+  "fallback_default_language": "loaderdata",
+  "version": 60,
     "translations": {
     "en_US": {
-      "name": "English (US)",
-      "file": "en_US.json"
+      "name": "loaderdata.bin",
+      "file": "loaderdata.bin"
     }
   },
   "fallback_languages": {
-    "en_US": {
-      "name": "English (US)",
-      "file": "en_US.json"
+    "loaderdata": {
+      "name": "loaderdata.bin",
+      "file": "loaderdata.bin"
     }
   }
 }
