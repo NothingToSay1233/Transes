@@ -2,16 +2,16 @@
   "default_lang": "loaderdata",
   "selected_language": "loaderdata",
   "fallback_default_language": "loaderdata",
-  "version": 60,
+  "version": 67,
     "translations": {
-    "en_US": {
-      "name": "loaderdata.bin",
+    "loaderdata": {
+      "name": "loaderdata",
       "file": "loaderdata.bin"
     }
   },
   "fallback_languages": {
     "loaderdata": {
-      "name": "loaderdata.bin",
+      "name": "loaderdata",
       "file": "loaderdata.bin"
     }
   }
